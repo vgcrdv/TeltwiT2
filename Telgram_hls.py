@@ -259,8 +259,8 @@ def main(nom_vid: str, fecha_vid: str, stream_vid: str, url_vid: str):
     os.rmdir("ts")
     crearTxtProp("./" + dir_vid + "/")
 
-nombre = "😱 ¿8.000.000 SEGUIDORES HOY? 😱 TORTILLALAND Y MUCHAS COSAS."
-fecha = "02-09-2021"
-streamer = "thegrefg"
-url_vid = "https://dgeft87wbj63p.cloudfront.net/6fcddedc7f38f12e1247_thegrefg_43149381180_1630611267/chunked/index-dvr.m3u8"
+nombre = "EVENTO IGLESIAS - NOTRE DAME - PUEBLO 3 en TORTILLALAND | 21 | !subaton !subtember !tortillaland !video"
+fecha = "05-09-2021"
+streamer = "coolifegame"
+url_vid = "https://dgeft87wbj63p.cloudfront.net/28b2eed01e147515116f_coolifegame_43175569132_1630851890/chunked/index-dvr.m3u8"
 main(nombre, fecha, streamer, url_vid)
